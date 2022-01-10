@@ -2,8 +2,6 @@
 
 In `App.tsx` create a loop to render your `<CatCard/>` with
 
-Hint: An ES6 looping method would be a little easier than a traditional `for` loop.
-
 Hint: To insert JavaScript into our HTML or 'JSX' you'll need to write your JavaScript code inside a pair of curly braces { }.
 
 <details>
